@@ -1,6 +1,6 @@
 <h2 align="center"> Clone-twitch.tv </h2>
 
-<p align="center">This project is a <a href="https://www.twitch.tv/" target="_blank" >Twitch</a> clone app. Where design and concepts for react native styles were used.</p>
+<p align="center">This project is a <a href="https://www.twitch.tv/" target="_blank" >Twitch</a> homepage clone app. Where design and concepts for react native styles were used.</p>
 
 ![](https://github.com/lucascooelho/clone-twitch.tv/blob/master/src/images/screenshots/twitch.tv.png)
 
